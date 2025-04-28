@@ -5,13 +5,16 @@ The objective of this Power BI project is to analyze Amazon Prime Video’s cont
 
 # Dataset
 **Source:** Amazon Prime Movies and TV Shows csv dataset
+
 **Time Period:** March 2021 to October 2021
+
 **Contents:** Titles, genres, ratings, release years, countries, directors, and show type
 
 # Dashboard Features
 The Power BI dashboard is interactive and includes the following visualizations:
 
 **Visual Components:**
+
 **Bar Chart:**
 - Ratings by Total Shows
 - Genres by Number of Shows
@@ -37,9 +40,13 @@ The Power BI dashboard is interactive and includes the following visualizations:
 
 # Key Insights
 **Dominant Content Type:** Movies make up a significant portion of the content library compared to TV shows.
+
 **Genre Popularity:** Drama and Comedy are the most common genres, indicating viewer preference and content strategy.
+
 **Content Ratings:** The majority of shows fall under a few major rating categories, showcasing a focus on specific viewer demographics.
+
 **Country Distribution:** The United States contributes the highest number of titles, followed by India and the United Kingdom.
+
 **Release Trends:** A large number of titles were released between 2010 and 2020, suggesting a modern-focused content library.
 
 # Conclusion
