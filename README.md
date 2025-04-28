@@ -1,4 +1,4 @@
-# Amazon Prime Video Analysis (Mar 2021 – Oct 2021)
+# Amazon Prime Video Analysis
 
 # Objective
 The objective of this Power BI project is to analyze Amazon Prime Video’s content offerings from March 2021 to October 2021. The goal is to uncover insights about the distribution of titles, genres, release years, and other key metrics that contribute to understanding Prime Video's global content strategy.
@@ -11,8 +11,8 @@ The objective of this Power BI project is to analyze Amazon Prime Video’s cont
 # Dashboard Features
 The Power BI dashboard is interactive and includes the following visualizations:
 
-**Visual Components:
-Bar Chart:**
+**Visual Components:**
+**Bar Chart:**
 - Ratings by Total Shows
 - Genres by Number of Shows
 
